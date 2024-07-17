@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@selva432](https://medium.com/@selva432)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about ** Machine Learning**
 
 - 📫 How to reach me **s.selvakumar0614@gmail.com**
 
