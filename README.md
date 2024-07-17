@@ -9,9 +9,9 @@
     <h1 align="center">Hi 👋, I'm Selvakumar S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on [Alumni Portal](https://github.com/Selva73582/alumni-app)
+- 🔭 I’m currently working on Data Analyst related project
 
-- 🌱 I’m currently learning **Django,React,React Native**
+- 🌱 I’m currently learning **ML,LLM, and Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Selva73582/](https://github.com/Selva73582/)
 
